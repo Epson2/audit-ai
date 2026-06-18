@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1781809801559,
+    "description": "Uber ride to client meeting",
+    "amount": 24.5,
+    "date": "2026-06-12",
+    "category": "Travel",
+    "businessPurpose": "Travel for client meeting",
+    "deductible": "Yes",
+    "riskFlag": "Normal",
+    "summary": "Uber ride for a client meeting on 2026-06-12 for $24.50. This is a normal business travel expense."
+  },
+  {
+    "id": 1781810084600,
+    "description": "Adobe Creative Cloud subscription",
+    "amount": 59.99,
+    "date": "2026-06-13",
+    "category": "Software",
+    "businessPurpose": "Tools for creative work and marketing materials.",
+    "deductible": "Yes",
+    "riskFlag": "Normal",
+    "summary": "Monthly subscription for Adobe Creative Cloud, essential for design and content creation."
+  },
+  {
+    "id": 1781811331751,
+    "description": "soccer ball for training",
+    "amount": null,
+    "date": "2026-06-16",
+    "category": "Equipment",
+    "businessPurpose": "Training equipment for business activities.",
+    "deductible": "Yes",
+    "riskFlag": "Normal",
+    "summary": "Soccer ball for training purposes. Likely a deductible business expense."
+  },
+  {
+    "id": 1781811824265,
+    "description": "soccer cleats because my old ones are worn out",
+    "amount": 160,
+    "date": "2026-06-15",
+    "category": "Other",
+    "businessPurpose": "The description implies personal use, not directly related to business operations. Soccer cleats are generally for recreational or personal athletic activities.",
+    "deductible": "No",
+    "riskFlag": "Review",
+    "summary": "Expense for soccer cleats, likely personal and not business-related. Recommend review for clarification on business relevance, as currently it appears non-deductible."
+  }
+]
